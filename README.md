@@ -1,1 +1,1 @@
-# Platzi-Curso-PrácticoJavascript
+# Platzi-Curso-Práctico-Javascript
