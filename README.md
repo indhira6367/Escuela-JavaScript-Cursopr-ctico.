@@ -1,1 +1,1 @@
-# Escuela-JavaScript-Cursopr-ctico.
+# Platzi-Curso-PrácticoJavascript
